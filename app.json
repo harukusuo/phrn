@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "PetHelp",
+    "slug": "PetHelp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pethelp_icone.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pethelp_icone.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pethelp_icone.png"
+    }
+  }
+}
